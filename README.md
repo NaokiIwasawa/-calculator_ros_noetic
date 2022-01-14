@@ -34,6 +34,9 @@ Robosys_thema2
   $ cd ~/catkin_ws
   $ catkin_make
   $ source ~/.bashrc
+  $ cd src/calculator_ros_noetic/scripts
+  $ chmod +x talker.py
+  $ chmod +x listener.py
   ```
     
 ---
