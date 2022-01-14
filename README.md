@@ -8,7 +8,7 @@ Robosys_thema2
 
 ## 動画
 - 画像をクリックするとYoutubeで動画が再生されます
-[![動画](https://user-images.githubusercontent.com/71487860/149426317-0c19dbd5-fc1d-4286-90d2-dac8fe5d45b6.png)]("https://youtu.be/myb7oyhUnPA")
+[![動画](https://user-images.githubusercontent.com/71487860/149426317-0c19dbd5-fc1d-4286-90d2-dac8fe5d45b6.png)](https://youtu.be/myb7oyhUnPA)
 
 
 **talker**に入力した式を**listener**がeval関数を使って計算し，結果を出力する．
