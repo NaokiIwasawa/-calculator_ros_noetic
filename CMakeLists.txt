@@ -3,7 +3,6 @@ project(calculator)
 
 find_package(catkin REQUIRED COMPONENTS
   rospy
-  random
 )
 
 catkin_package(
