@@ -30,7 +30,7 @@ Robosys_thema2
 
   ```
   $ cd ~/catkin_ws/src
-  $ git clone "URL"
+  $ git clone "https://github.com/NaokiIwasawa/calculator_ros_noetic.git"
   $ cd ~/catkin_ws
   $ catkin_make
   $ source ~/.bashrc
