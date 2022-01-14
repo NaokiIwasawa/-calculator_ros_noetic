@@ -53,4 +53,4 @@ terminal3:
 $ rosrun calculator listener.py
 ```
 # License
-[BSD 3-Clause "New" or "Revised" License]("URL")
+[BSD 3-Clause "New" or "Revised" License](https://github.com/NaokiIwasawa/calculator_ros_noetic/blob/master/LICENSE)
